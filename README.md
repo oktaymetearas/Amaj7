@@ -10,3 +10,10 @@ Planned features:
 I feel like I will need many libraries (especially librosa) but we gotta start from somewhere I guess.
 I plan to add many more things but these are first in line. So, let's start!
 -----------------------------------------------------------------------------------------
+
+Well hello again! (23.02.26)
+I know its been some time but I have been working on so many things on this project. I can pretty confidently say I did most of the things I wanted to.
+So right now you can upload files, estimate the tempo with amazing quality and make really good key predictions.
+I am still using streamlit for the frontend and the structure and I plan to continue doing so. Librosa is an amazing library too. I checked the library files and it was a whole lot of math and physics, I could understand almost half of it but there are some things I dont know yet. I am planning to learn some more tho.
+Also I integrated an older project of mine into this one. It lets me download youtube videos to my computer as WAV files. I originally made it to burn my own cds but turns out it can have nmore uses than that. Now there are 2 tabs. One is youtube video downloader and the second tab is the original project. This is turning out even better than I expected. See you next time then!
+-----------------------------------------------------------------------------------------
